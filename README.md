@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Margarita
 QA Engineer
 
-margarita1501/margarita1501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Обладаю такими качествами как внимание к деталям, точность, усидчивость, готовность учиться и узнавать новое, реализовывать поставленные цели и задачи в процессе работы
 
-Инструменты
-POSTMAN
+Инструменты: Postman, Android Studio, Figma, json, Swagger, Cygwin/Terminal, Charles, YouTrack, DEVTOOLS
